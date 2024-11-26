@@ -1,5 +1,5 @@
 
-### Color Palette Generator
+# Color Palette Generator
 
 A simple web app that generates random color palettes each time the spacebar is pressed. The generated colors are displayed in columns, with the text color changing automatically to ensure readability based on the brightness of the background color.
 
@@ -14,7 +14,8 @@ You can view the live demo here:
 
 
 ## Inspired By :
-- [Coolors.co](https://coolors.co/generate))
+- ** [Coolors.co](https://coolors.co/generate)
+- [AnimeChan API](https://animechan.vercel.app/).
 
 ## Installation:
 
