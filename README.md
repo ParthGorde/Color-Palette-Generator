@@ -10,11 +10,11 @@ A simple web app that generates random color palettes each time the spacebar is 
 
 ## Demo:
 You can view the live demo here:  
-[Your GitHub Pages URL] (Replace with your actual URL)
+🚀 **[Live Demo](#)** 
 
 
 ## Inspired By :
-- **[Coolors.co](https://coolors.co/generate)
+- **[Coolors.co](https://coolors.co/generate)**
 - [AnimeChan API](https://animechan.vercel.app/).
 
 ## Installation:
