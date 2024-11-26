@@ -6,7 +6,7 @@ A simple web app that generates random color palettes each time the spacebar is 
 ## Features:
 - **Random Color Generation**: Press the spacebar to generate a new set of random colors.
 - **Adaptive Text Color**: Text color changes automatically based on whether the background color is light or dark.
-- **Responsive Design**: The app is designed to be responsive and works well on both desktop and mobile devices.
+- **Clipboard**: Press the color to copy shown color.
 
 ## Demo:
 You can view the live demo here:  
@@ -14,8 +14,8 @@ You can view the live demo here:
 
 
 ## Inspired By :
-- **[Coolors.co](https://coolors.co/generate)**
-- [AnimeChan API](https://animechan.vercel.app/).
+-  **[Coolors.co](https://coolors.co/generate)**
+
 
 ## Installation:
 
