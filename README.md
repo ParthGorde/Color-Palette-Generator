@@ -14,7 +14,7 @@ You can view the live demo here:
 
 
 ## Inspired By :
-- ** [Coolors.co](https://coolors.co/generate)
+- **[Coolors.co](https://coolors.co/generate)
 - [AnimeChan API](https://animechan.vercel.app/).
 
 ## Installation:
