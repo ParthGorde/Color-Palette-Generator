@@ -1,0 +1,13 @@
+.column {
+  width: 20%;
+  height: 93vh;
+}
+
+.colorCode {
+  font-size: 32px;
+  text-align: center;
+  padding-top: 75vh;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+}
+
