@@ -10,7 +10,7 @@ A simple web app that generates random color palettes each time the spacebar is 
 
 ## Demo:
 You can view the live demo here:  
-🚀 **[Live Demo](#)** 
+🚀 **[Live Demo](https://colors-by-thrap.vercel.app/)** 
 
 
 ## Inspired By :
