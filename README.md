@@ -1,5 +1,5 @@
 
-Color Palette Generator
+### Color Palette Generator
 
 A simple web app that generates random color palettes each time the spacebar is pressed. The generated colors are displayed in columns, with the text color changing automatically to ensure readability based on the brightness of the background color.
 
@@ -12,6 +12,10 @@ A simple web app that generates random color palettes each time the spacebar is 
 You can view the live demo here:  
 [Your GitHub Pages URL] (Replace with your actual URL)
 
+
+## Inspired By :
+- [Coolors.co](https://coolors.co/generate))
+
 ## Installation:
 
 Follow these steps to run the app locally:
@@ -21,10 +25,10 @@ Follow these steps to run the app locally:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/color-palette-generator.git
+git clone https://github.com/parthgorde/color-palette-generator.git
 ```
 
-Replace `your-username` with your GitHub username.
+
 
 ### Step 2: Navigate to the Project Directory
 
@@ -46,10 +50,10 @@ This will install the required packages defined in the `package.json` file.
 
 ### Step 4: Start the Development Server
 
-Once the dependencies are installed, you can start the development server:
+Once the dependencies are installed, you can start the project:
 
 ```bash
-npm start
+npm run dev
 ```
 
 This will launch the app in your default web browser. The app will automatically reload if you make any changes to the code.
@@ -59,42 +63,9 @@ This will launch the app in your default web browser. The app will automatically
 - **CSS**: Used for styling the app and making it responsive.
 - **JavaScript**: Logic for color generation and key event handling.
 
-## License:
-This project is licensed under the MIT License.
+
 
 ## Contributing:
 
 Feel free to fork this project and submit pull requests. If you find any bugs or have suggestions, please open an issue in the GitHub repository.
 
-To contribute:
-1. Fork the repository by clicking the "Fork" button at the top right of the repository page.
-2. Clone your fork to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/color-palette-generator.git
-   ```
-
-3. Create a new branch for your changes:
-
-   ```bash
-   git checkout -b feature-branch
-   ```
-
-4. Make your changes and commit them:
-
-   ```bash
-   git add .
-   git commit -m "Add new feature"
-   ```
-
-5. Push your changes to your fork:
-
-   ```bash
-   git push origin feature-branch
-   ```
-
-6. Submit a pull request to the main repository.
-
----
-
-**Note**: Replace `[Your GitHub Pages URL]` with the actual URL of your deployed GitHub Pages site.
