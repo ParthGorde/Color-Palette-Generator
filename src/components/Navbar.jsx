@@ -9,11 +9,10 @@ export default function Navbar() {
       <span className="left-span">Press Space to generate colors</span>
       <span>
         <h1>
-          Color{" "}
           <span>
             <img src={logo} alt="logo" />
           </span>{" "}
-          Palette
+          ColorForge
         </h1>
       </span>
       <span className="right-span">Click On Color to Copy</span>
