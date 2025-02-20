@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/9d720270-9e57-4839-a8c4-fa2ded1e9730)
-# ColorForge : ##Color Palette Generator
+
+# ColorForge : ## Color Palette Generator
 
 A simple web app that generates random color palettes each time the spacebar is pressed. The generated colors are displayed in columns, with the text color changing automatically to ensure readability based on the brightness of the background color.
 
