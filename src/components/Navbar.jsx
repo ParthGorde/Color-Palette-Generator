@@ -12,7 +12,7 @@ export default function Navbar() {
           <span>
             <img src={logo} alt="logo" />
           </span>{" "}
-          ColorForge
+          Paletteforge
         </h1>
       </span>
       <span className="right-span">Click On Color to Copy</span>
